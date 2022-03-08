@@ -12,16 +12,16 @@
     "VRChat": "ExampleVRC"
   },
   {
-    "Name": "xaphroy",
-    "Discord": "xaphroy#6969",
+    "Name": "Example VIP",
+    "Discord": "vip#6969",
     "Tier": "VIP",
-    "VRChat": "xaphroy",
+    "VRChat": "vipVRC",
     "DiscordId": "51561561561"
   },
   {
-    "Name": "sparseVR",
-    "Discord": "sparseVR#0001",
+    "Name": "another elite",
+    "Discord": "elitteee#0001",
     "Tier": "Elite",
-    "VRChat": "~sparse~"
+    "VRChat": "eliteVRC"
   }
 ]
