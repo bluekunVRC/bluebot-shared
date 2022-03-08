@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "HIDDEN",
+    "Discord": "",
+    "Tier": "Elite",
+    "VRChat": "Mysterious Eliteman"
+  },
+  {
+    "Name": "Example",
+    "Discord": "example#1111",
+    "Tier": "VIP",
+    "VRChat": "ExampleVRC"
+  },
+  {
+    "Name": "xaphroy",
+    "Discord": "xaphroy#6969",
+    "Tier": "VIP",
+    "VRChat": "xaphroy",
+    "DiscordId": "51561561561"
+  },
+  {
+    "Name": "sparseVR",
+    "Discord": "sparseVR#0001",
+    "Tier": "Elite",
+    "VRChat": "~sparse~"
+  }
+]
